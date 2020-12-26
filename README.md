@@ -39,8 +39,7 @@ Since the repo is using SIFT and SURF descriptors from openCV which are now not 
   . opencv-python==3.4.2.16
   
   . opencv-contrib-python==3.4.2.16 
-  
-  TO be done
+
 
 # Authors
 malek-baba, ezgigungor, fnisahopcu
